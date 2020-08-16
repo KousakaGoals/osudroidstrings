@@ -9,9 +9,9 @@
     <string name="opt_graphics">Gráficos</string>
     <string name="opt_beatmaps">Librería</string>
     <string name="opt_bg_title">Calidad del fondo</string>
-    <string name="opt_bg_summary">Reduzca la calidad del fondo para aumentar el rendimiento</string>
+    <string name="opt_bg_summary">Reduce la calidad del fondo para aumentar el rendimiento</string>
     <string name="opt_skin_title">Skin del beatmap</string>
-    <string name="opt_skin_summary">Cargar Skins específicos de cada beatmap solo si se encuentra disponible</string>
+    <string name="opt_skin_summary">Cargar los Skins de cada beatmap solo si se encuentra disponible</string>
     <string name="opt_largeimages_title">Cuenta regresiva</string>
     <string name="opt_largeimages_summary">Mostrar la cuenta regresiva al principio de un mapa sólo si lo tiene disponible</string>
     <string name="opt_sound_volume_title">Volúmen de los golpes</string>
@@ -22,7 +22,7 @@
     <string name="opt_deleteosz_title">Eliminar archivos .osz</string>
     <string name="opt_deleteosz_summary">Eliminar los archivos .osz después de ser importados</string>
     <string name="opt_directory_title">Directorio de los beatmaps</string>
-    <string name="opt_directory_summary">Ruta al directorio de los beatmaps (por defecto: /mnt/sdcard/osu!droid/Songs)</string>
+    <string name="opt_directory_summary">Ruta del directorio de los beatmaps (por defecto: /mnt/sdcard/osu!droid/Songs)</string>
     <string name="opt_clear_title">Eliminar el cache de la librería</string>
     <string name="opt_clear_summary">Forzar la eliminación del cache en la librería</string>
     <string name="opt_doublesound_title">Sonidos dobles en los golpes</string>
@@ -39,27 +39,27 @@
     <string name="opt_vbroffset_title">Offset de VBR</string>
     <string name="opt_vbroffset_summary">Offset para mp3s encodificados con una tasa de bits (bitrate) variable (sólo para reproductor integrado)</string>
     <string name="opt_sliderborders_title">Mostrar los bordes de los deslizadores</string>
-    <string name="opt_sliderborders_summary">Mostrar los bordes junto con las pistas de deslizadores. Desactivar para mayor rendimiento.</string>
+    <string name="opt_sliderborders_summary">Mostrar los bordes con las notas deslizadoras. Desactivar para mayor rendimiento.</string>
     <string name="opt_complexanimations_title">Efectos complejos</string>
-    <string name="opt_complexanimations_summary">Active los efectos avanzados (ej. deslizadores serpenteantes). Desactive para mayor rendimiento.</string>
+    <string name="opt_complexanimations_summary">Activa los efectos avanzados (ej. deslizadores serpenteantes). Desactive para mayor rendimiento.</string>
     <string name="opt_other_title">Misceláneo</string>
     <string name="opt_multitouch_title">Multi-touch</string>
-    <string name="opt_multitouch_summary">Activa la entrada del multi-touch solo si se encuentra disponible</string>
+    <string name="opt_multitouch_summary">Activar el multi-touch solo si se encuentra disponible</string>
     <string name="opt_offsetscreen_title">Configurar el offset</string>
-    <string name="opt_offsetscreen_summary">Cambia el offset para coordinar los golpes con la cancion</string>
+    <string name="opt_offsetscreen_summary">Cambia el offset para coordinar las notas con la cancion</string>
     <string name="opt_oggoffset_title">Offset de OGG</string>
     <string name="opt_oggoffset_summary">Offset adicional para canciones en formato .ogg</string>
     <string name="opt_pauseoffset_title">Offset de pausa</string>
-    <string name="opt_pauseoffset_summary">Añadir Offset cada vez que Continue el juego pausado</string>
+    <string name="opt_pauseoffset_summary">Añadir Offset cada vez que se Continue el juego pausado</string>
     <string name="opt_musicpreview_title">Vista previa de la canción</string>
-    <string name="opt_musicpreview_summary">Reproducir la canción de un beatmap cuando se selecciona</string>
+    <string name="opt_musicpreview_summary">Reproducir la canción de un beatmap cuando es seleccionado</string>
     <string name="opt_playername_title">Nombre del jugador</string>
     <string name="opt_playername_summary">Nombre del jugador local</string>
     <string name="opt_showcursor_title">Mostrar cursor</string>
-    <string name="opt_showcursor_summary">Muestra un cursor debajo de los dedos durante el juego</string>
+    <string name="opt_showcursor_summary">Muestra un cursor debajo de los dedos mientras juegas</string>
 
-    <string name="opt_clearprops_title">Eliminar datos específicos de mapa</string>
-    <string name="opt_clearprops_summary">Forzar la eliminación de todos los datos específicos de cada mapa (ej. offset por mapa)</string>
+    <string name="opt_clearprops_title">Eliminar los datos del mapa</string>
+    <string name="opt_clearprops_summary">Forzar la eliminación de todos los datos de cada mapa (ej. offset por mapa)</string>
 </resources>
 
 
